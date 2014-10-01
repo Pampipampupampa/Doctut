@@ -1,5 +1,5 @@
 Simple documentation Tutorial : Doctut
-==================================
+======================================
 
 Another simple header
 =====================
@@ -15,8 +15,8 @@ Guide:
 .. toctree::
    :maxdepth: 2
 
-    license
-    help
+   license
+   help
 
 
 
